@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring developer passionate about exploring new technologies. Currently studying Computer Science Engineering at SRM university. 🌟💻 #StudentDev</h3>
 
 
-
+awawwa
 ### 🚀 About Me
 - 🔭 I’m currently working on: problem solving and Tech Stacks.
 <!-- - 🌱 I’m currently learning: **Dynamic Programming**
