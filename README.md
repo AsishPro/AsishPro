@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asish Padala</h1>
-<h3 align="center">Aspiring developer passionate about exploring new technologies. Currently studying Computer Science Engineering at SRM university. 🌟💻 #StudentDev</h3>
+<h3 align="center">Aspiring developer passionate about exploring new technologies. Currently studying Computer Science Engineering at SRM university. 🌟💻 #Developer</h3>
 
 
 ### 🚀 About Me
@@ -17,7 +17,7 @@
 
 ### 🏆 Achievements
 - 📈 **GPA**: 9.56 / 10
-- 🔍 Internships: Summer Research Intern at **SRMAP**, Data Analyst Intern at **APSSDC**
+- 🔍 Internships: Working as software intern at CME Group, Summer Research Intern at **SRMAP**, Data Analyst Intern at **APSSDC**
 - 🥇 Solved 200+ coding problems on leetcode, codechef problem and continuing.
 
 ### 📂 Projects
